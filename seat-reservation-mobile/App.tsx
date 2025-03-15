@@ -1,3 +1,12 @@
+/**
+ * Seat Reservation Mobile App
+ * 
+ * Created by DigitalHoldingsGroup LLC. All rights reserved.
+ * Repository: https://github.com/RedClaus/Seatreservation
+ * 
+ * © 2025 DigitalHoldingsGroup LLC
+ */
+
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { Provider as PaperProvider } from 'react-native-paper';

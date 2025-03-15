@@ -196,6 +196,8 @@ const ProfileScreen = () => {
       
       <View style={styles.versionContainer}>
         <Text style={styles.versionText}>Version 1.0.0</Text>
+        <Text style={styles.versionText}>© 2025 DigitalHoldingsGroup LLC</Text>
+        <Text style={styles.versionText}>All rights reserved</Text>
       </View>
       
       {/* Logout Confirmation Dialog */}
